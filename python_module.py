@@ -149,4 +149,10 @@ def main():
         print("You guys both won...TIE")
 
 
-main()
+while True:
+    input("Play Tic-Tac-Toe? (yes/no) ")
+    if input == "yes":
+        main()
+    else:
+        print("Okay, Goodbye!")
+        break
