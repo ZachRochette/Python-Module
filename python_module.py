@@ -1,4 +1,4 @@
-
+# Tic Tac Toe with AI
 # Create the diameters for the board
 board = [" " for x in range(10)]
 
