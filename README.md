@@ -27,4 +27,4 @@ My purpose for writing this software is so that I can further my knowledge with 
 
 - Add graphics to the game using something like Pygame
 - Include the option to either play against the computer or against another person
--
+- Make the game playable online
