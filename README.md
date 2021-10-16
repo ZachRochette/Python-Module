@@ -22,11 +22,10 @@ Import Random
 - [Wiki How](https://www.wikihow.com/Win-at-Tic-Tac-Toe)
 - [Geekflare](https://geekflare.com/tic-tac-toe-python-code/)
 - [AskPython](https://www.askpython.com/python/examples/tic-tac-toe-using-python)
+- [Stack Overflow](https://stackoverflow.com/questions/61346600/whats-wrong-with-this-tic-tac-toe-python-game)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-
-- Item 1
-- Item 2
-- Item 3
+- Add graphics to the game using something like Pygame
+- Include the option to either play against the computer or against another person
+-
