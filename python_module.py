@@ -150,8 +150,8 @@ def main():
 
 
 while True:
-    input("Play Tic-Tac-Toe? (yes/no) ")
-    if input == "yes":
+    user_input = input("Play Tic-Tac-Toe? (yes/no) ")
+    if user_input == "yes":
         main()
     else:
         print("Okay, Goodbye!")
