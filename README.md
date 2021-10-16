@@ -4,7 +4,7 @@ The point of this project is to practice the Python language.
 To further my skills with Python I will be creating a tic-tac-toe game where you will play against an AI.
 My purpose for writing this software is so that I can further my knowledge with the Python coding language. I will need to push myself in order to complete this assignment, and hopefully will have created something fun to use by the end of it.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/3BGK2zRgCwI)
 
 # Development Environment
 
