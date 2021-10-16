@@ -11,15 +11,17 @@ My purpose for writing this software is so that I can further my knowledge with 
 
 Visual Studio Code
 Python 3.9.7
-
-{Describe the programming language that you used and any libraries.}
+Import Random
 
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
 
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+- [W3schools](https://www.w3schools.com/python/)
+- [Tutorials Point](https://www.tutorialspoint.com/artificial_intelligence_with_python/artificial_intelligence_with_python_quick_guide.htm)
+- [Wiki How](https://www.wikihow.com/Win-at-Tic-Tac-Toe)
+- [Geekflare](https://geekflare.com/tic-tac-toe-python-code/)
+- [AskPython](https://www.askpython.com/python/examples/tic-tac-toe-using-python)
 
 # Future Work
 
