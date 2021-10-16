@@ -150,6 +150,7 @@ def main():
 
 
 while True:
+
     user_input = input("Play Tic-Tac-Toe? (yes/no) ")
     if user_input == "yes":
         main()
